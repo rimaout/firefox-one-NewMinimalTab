@@ -16,11 +16,3 @@ This is a fork of the [Firefox One](https://github.com/Godiesc/firefox-one) proj
 >I've also added a new image:
 >- `minimalImmage.png` (located at `...chrome/images/newtab/minimalImmage.png`)
 
----
-
-## Screenshots
-#### Before
-
-
-#### After
-![Screenshot from 2024-04-25 12-23-33](https://github.com/rimaout/firefox-one-NewMinimalTab/assets/116072651/2bbd3629-1dc4-4920-840c-791130cdb188)
