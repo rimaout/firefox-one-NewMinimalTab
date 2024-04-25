@@ -18,7 +18,7 @@ This is a fork of the [Firefox One](https://github.com/Godiesc/firefox-one) proj
 
 ---
 
-## screenshots
+## Screenshots
 #### Before
 
 
