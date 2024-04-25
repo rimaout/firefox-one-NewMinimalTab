@@ -2,7 +2,7 @@
 
 This is a fork of the [Firefox One](https://github.com/Godiesc/firefox-one) project. I've edited the new tab page to make it simpler and more minimalistic. If you're into a clean, distraction-free browsing experience, you might like this.
 
-<img src = "https://github.com/rimaout/firefox-one-NewMinimalTab/assets/116072651/0d98fe2e-bcd4-4093-bde8-010577e6854b" width="800" />
+<img src = "https://github.com/rimaout/firefox-one-NewMinimalTab/assets/116072651/0d98fe2e-bcd4-4093-bde8-010577e6854b" width="700" />
 
 
 ## Changes
